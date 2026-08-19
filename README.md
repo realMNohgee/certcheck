@@ -1,4 +1,5 @@
 # certcheck 🔒
+![CI](https://github.com/realMNohgee/certcheck/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **SSL/TLS certificate inspector.** Zero dependencies, pure Python stdlib.
 
